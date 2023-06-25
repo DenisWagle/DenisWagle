@@ -1,4 +1,5 @@
-Hello, I'm @DenisWagle, a recent graduate in Networking and IT Security with a passion for Cybersecurity. I hold multiple certifications in this field and constantly strive to expand my knowledge. On this GitHub profile, you'll find my projects, scripts, and contributions related to cybersecurity. Let's collaborate and secure the digital world together!
+Hello, I'm Denis!
+
 
 <!---
 DenisWagle/DenisWagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

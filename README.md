@@ -4,8 +4,8 @@ A recent graduate in Networking and IT Security with a passion for Cybersecurity
 
 
 ## :briefcase: Cybersecurity Projects
-
-* [SQL Queries Filter Project](https://www.linkedin.com/in/denis-wagle-b3567b228/)
+* **SQL Queries Filter Project**
+  * [SQL Queries Filter Project](https://www.linkedin.com/in/denis-wagle-b3567b228/)
 
 
 

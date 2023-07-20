@@ -7,6 +7,9 @@ A recent graduate in Networking and IT Security with a passion for Cybersecurity
 * **SQL Queries Filter Project**
   * [SQL Queries Filter Project](https://github.com/DenisWagle/Cybersecurity-Projects/blob/8fbb2b245604d38f4e799bca9919e85942c5b505/Filters-to-SQL-queries%20GITHUB.pdf)
 
+* **Cybersecurity Automation using Python**
+  * [Update a file through a Python algorithm](https://github.com/DenisWagle/Automation-using-Python/blob/main/Automation%201.pdf)
+
 
 
 
